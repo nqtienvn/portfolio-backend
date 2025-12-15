@@ -16,4 +16,7 @@ public class AuthorProfileDto {
     private List<SocialMediaDto> socialList;
     private List<AvatarDto> avatarList;
     private List<SkillDto> skills;
+    private List<EducationDto> educationList;
+    private List<WorkExperienceDto> workExperienceList;
+    private List<ProjectDto> projectList;
 }
